@@ -23,7 +23,7 @@ Turns out, it's easy to become a servant to your toolset, where the opposite is 
 And industrial programming is not exactly producing what I hope to get out of my efforts.\
 Regardless, I haven't deviated from the path of *Truth* yet... Or so I would like to believe.
 
-### When I hit the software bucket, I want this stuff to be spilled on the floor.
+### When I kick the software bucket, I want this stuff to be spilled on the floor.
 
 - [ ] Purely YAML configured backend stack with fully automated infrastructure, authentication, authorization and CRUD layers. Business logic is simply a buzz.
 - [ ] AI music playing companion that can play along.
